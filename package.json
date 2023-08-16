@@ -1,0 +1,14 @@
+{
+  "name": "tiraya-meta",
+  "version": "1.0.0",
+  "author": "ThetaDev",
+  "license": "GPL-3.0",
+  "private": "true",
+  "scripts": {
+    "convert": "svgo -f icon -o dist && svgo -f header -o dist && inkscape --export-type=png --export-width=500 dist/icon_*.svg"
+  },
+  "devDependencies": {
+    "convert-svg-to-png": "^0.6.4",
+    "svgo": "^3.0.2"
+  }
+}
