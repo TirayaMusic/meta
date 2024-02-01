@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.6873348"
-     inkscape:cx="54.328921"
-     inkscape:cy="71.074136"
+     inkscape:zoom="4"
+     inkscape:cx="-7.25"
+     inkscape:cy="51.25"
      inkscape:window-width="2516"
      inkscape:window-height="1051"
      inkscape:window-x="0"
@@ -50,7 +50,7 @@
        inkscape:collect="always"
        id="linearGradient137387">
       <stop
-         style="stop-color:#0035ff;stop-opacity:1"
+         style="stop-color:#16b5ab;stop-opacity:1"
          offset="0"
          id="stop137383" />
       <stop
@@ -84,7 +84,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g371">
+       id="g371"
+       transform="matrix(1.1044868,0,0,1.1044868,-5.9981655,-5.0612573)">
       <path
          style="fill:none;stroke:url(#linearGradient204368);stroke-width:14.4841;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="M 88.726798,55.007276 40.39933,82.909152 V 50.358675"
